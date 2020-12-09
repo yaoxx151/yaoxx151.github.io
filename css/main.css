@@ -1,0 +1,100 @@
+a, a:hover {
+color: #778899;  /*Light Slate Gray*/
+}
+
+hr {
+    margin-top: 0em; 
+    margin-bottom: 10px;
+}
+
+.lighttext {
+    font-weight: 300 !important;
+}
+
+.normaltext {
+    font-weight: 400 !important;
+}
+
+.boldtext {
+    font-weight: 700 !important;
+}
+
+.semiboldtext {
+    font-weight: 500 !important;
+}
+
+.info {
+font-size: 13px;
+}
+
+.paperitem {
+font-size: 13px;
+padding-bottom: 4px;
+}
+
+.itembutton {
+background-color: #D3D3D3;  /*LightGray*/
+color: black;
+font-size: 12px;
+}
+
+.infoitem {
+margin-bottom: 20px;
+}
+
+.mainitem {
+margin-bottom: 1.25em;
+}
+
+.smallfont {
+font-size: 10.25px;
+}
+
+#brand {
+font-family: 'Cabin', sans-serif;
+font-variant: small-caps;
+font-size: 1.85em;
+line-height: 1.0em;
+}
+
+#nametitle{
+font-family: 'Cabin', sans-serif;
+font-size: 1.85em;
+line-height: 1.0em;
+}
+
+#bio {
+text-align: justify;
+}
+
+body {
+font-family: 'Cabin', sans-serif;
+font-size: 15px;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 1.5em;
+  /*font-variant: small-caps;*/
+  line-height: 1.0em;
+}
+
+.infoheader {
+  font-weight: 900 !important;
+  font-size: 15px;
+  /* font-variant: small-caps; */
+  line-height: 1.1em;
+}
+
+.publication {
+  border:2px solid #808080;
+  width: 200px;
+}
+
+.portrait {
+    padding: 2px;
+    background: black;
+    width: 260px;
+}
+
+
