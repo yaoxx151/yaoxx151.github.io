@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | </title>
+    <title>Publications | Yuanshun (Kevin) Yao</title>
     <link>https://yaoxx151.github.io/publication/</link>
       <atom:link href="https://yaoxx151.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -72,6 +72,71 @@
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Proceedings of 17th ACM SIGCOMM Internet Measurement Conference (IMC). London, UK, November 2017.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Crowdturfing Attacks and Defenses in Online Review Systems</title>
+      <link>https://yaoxx151.github.io/publication/fakereview/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://yaoxx151.github.io/publication/fakereview/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Proceedings of ACM Conference on Computer and Communications Security (CCS). Dallas, TX, October 2017.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Object Recognition and Navigation using a Single Networking Device</title>
+      <link>https://yaoxx151.github.io/publication/60g/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://yaoxx151.github.io/publication/60g/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Proceedings of 15th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys). Niagara Falls, NY, June 2017.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identifying Value in Crowdsourced Wireless Signal Measurements</title>
+      <link>https://yaoxx151.github.io/publication/value/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://yaoxx151.github.io/publication/value/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Proceedings of 26th World Wide Web Conference (WWW). Perth, Australia, April 2017.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A General Framework to Increase the Robustness of Model-based Change Point Detection Algorithms to Outliers and Noise</title>
+      <link>https://yaoxx151.github.io/publication/cpd/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://yaoxx151.github.io/publication/cpd/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Proceedings of SIAM International Conference on Data Mining (SDM). Miami, FL, May 2016.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Daily Global Mesoscale Ocean Eddy Dataset from Satellite Altimetry</title>
+      <link>https://yaoxx151.github.io/publication/eddie/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://yaoxx151.github.io/publication/eddie/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Scientific Data 2, Nature Publishing Group. June 2015.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>

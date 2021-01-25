@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yaoxx151.github.io/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
@@ -20,6 +15,11 @@
   <url>
     <loc>https://yaoxx151.github.io/publication/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,6 +73,51 @@
   </url>
   
   <url>
+    <loc>https://yaoxx151.github.io/project/wired/</loc>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/</loc>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/sciam/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/forbes/</loc>
+    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/engadget/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/verge/</loc>
+    <lastmod>2017-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/npy/</loc>
+    <lastmod>2017-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/fortune/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/project/bi/</loc>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaoxx151.github.io/publication/mlaas/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -80,6 +125,81 @@
   <url>
     <loc></loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/publication/fakereview/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/publication/60g/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/publication/value/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/publication/cpd/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -94,11 +214,6 @@
   
   <url>
     <loc>https://yaoxx151.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -130,6 +245,26 @@
   <url>
     <loc>https://yaoxx151.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoxx151.github.io/publication/eddie/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
