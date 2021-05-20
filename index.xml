@@ -5,12 +5,25 @@
     <link>https://yaoxx151.github.io/</link>
       <atom:link href="https://yaoxx151.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuanshun (Kevin) Yao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 18:39:36 -0700</lastBuildDate>
     <image>
       <url>https://yaoxx151.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yuanshun (Kevin) Yao</title>
       <link>https://yaoxx151.github.io/</link>
     </image>
+    
+    <item>
+      <title>Backdoor Attacks Against Deep Learning Systems in the Physical World</title>
+      <link>https://yaoxx151.github.io/publication/realbackdoor/</link>
+      <pubDate>Wed, 19 May 2021 18:39:36 -0700</pubDate>
+      <guid>https://yaoxx151.github.io/publication/realbackdoor/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Proceedings of IEEE Computer Vision and Pattern Recognition (CVPR). June 2021.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Practical Backdoor Attacks and Defenses in Deep Learning Systems</title>
